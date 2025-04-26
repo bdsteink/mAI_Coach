@@ -15,3 +15,6 @@ This project allows users to receive workout advice as well as accountability to
 
 Technologies involved: 
 Pandas will be used for data keeping and visualizations of workout data. Tkinter will be used to create the User Interface for users to enter their data. I used OpenAI API to implement ChatGPT 4 Turbo into my project. I used PowerShell and command prompt to install necessary packages via pip install. The code retrieves my api key from an env file, by loading the env using the dotenv package. This project also utilizes JSON for user data. I plan to implement matplotlib to incorporate data visualization in my project.
+
+
+YouTube link: https://youtu.be/M2zXO2X4-EY
